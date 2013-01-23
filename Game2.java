@@ -14,6 +14,6 @@ public class Game2 extends Buttons
      */
     public void act() 
     {
-        // Add your action code here.
+        Game2 button = new Game2();
     }    
 }

@@ -2,6 +2,4 @@
 comment0.params=
 comment0.target=Menuworld()
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Menuworld.\r\n\ \r\n
-comment1.params=
-comment1.target=void\ menufill()
-numComments=2
+numComments=1
